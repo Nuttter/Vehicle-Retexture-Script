@@ -126,8 +126,6 @@ class CfgVehicles
 		class Cargo
 		{
 			itemsCargoSize[]={10,100};		//ADJUST HELICOPTER CARGO SIZE HERE 10 SLOTS ACROSS BY 100 SLOTS DOWN MAKING TOTAL 1000 SLOTS
-			allowOwnedCargoManipulation=1;
-			openable=0;
 		};
 	};
 };
